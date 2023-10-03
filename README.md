@@ -1,7 +1,7 @@
 # Web-scraper
 An application that scrapes a web page, generates reports and exposes a RESTful web service for querying scraped data.
 
-# Architcture
+# Architecture
 Built following Domain Driven Design and Clean Architecture.
   Application layer contains logic.\ operated on entities in the domain layer.
   Domain layer consists of entities relating to real life domain.
